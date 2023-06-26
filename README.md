@@ -5,13 +5,13 @@
 
 | Name | Version |
 |------|---------|
-| <a name="requirement_tfe"></a> [tfe](#requirement\_tfe) | ~> 0.41.0 |
+| <a name="requirement_tfe"></a> [tfe](#requirement\_tfe) | ~> 0.45.0 |
 
 ## Providers
 
 | Name | Version |
 |------|---------|
-| <a name="provider_tfe"></a> [tfe](#provider\_tfe) | 0.41.0 |
+| <a name="provider_tfe"></a> [tfe](#provider\_tfe) | 0.45.0 |
 
 ## Modules
 
